@@ -1,0 +1,10 @@
+C:\Users\murat.ucar\source\repos\IkiliAramaAgaciUygulama\IkiliAramaAgaciUygulama\bin\Debug\IkiliAramaAgaciUygulama.exe.config
+C:\Users\murat.ucar\source\repos\IkiliAramaAgaciUygulama\IkiliAramaAgaciUygulama\bin\Debug\IkiliAramaAgaciUygulama.exe
+C:\Users\murat.ucar\source\repos\IkiliAramaAgaciUygulama\IkiliAramaAgaciUygulama\bin\Debug\IkiliAramaAgaciUygulama.pdb
+C:\Users\murat.ucar\source\repos\IkiliAramaAgaciUygulama\IkiliAramaAgaciUygulama\obj\Debug\IkiliAramaAgaciUygulama.csproj.AssemblyReference.cache
+C:\Users\murat.ucar\source\repos\IkiliAramaAgaciUygulama\IkiliAramaAgaciUygulama\obj\Debug\IkiliAramaAgaciUygulama.Form1.resources
+C:\Users\murat.ucar\source\repos\IkiliAramaAgaciUygulama\IkiliAramaAgaciUygulama\obj\Debug\IkiliAramaAgaciUygulama.Properties.Resources.resources
+C:\Users\murat.ucar\source\repos\IkiliAramaAgaciUygulama\IkiliAramaAgaciUygulama\obj\Debug\IkiliAramaAgaciUygulama.csproj.GenerateResource.cache
+C:\Users\murat.ucar\source\repos\IkiliAramaAgaciUygulama\IkiliAramaAgaciUygulama\obj\Debug\IkiliAramaAgaciUygulama.csproj.CoreCompileInputs.cache
+C:\Users\murat.ucar\source\repos\IkiliAramaAgaciUygulama\IkiliAramaAgaciUygulama\obj\Debug\IkiliAramaAgaciUygulama.exe
+C:\Users\murat.ucar\source\repos\IkiliAramaAgaciUygulama\IkiliAramaAgaciUygulama\obj\Debug\IkiliAramaAgaciUygulama.pdb
